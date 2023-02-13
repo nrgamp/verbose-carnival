@@ -1,2 +1,2 @@
-# verbose-carnival
-Module 4 of Tools for Data Science
+# Module 4 of Tools for Data Science
+Jupyter Notebook Included
